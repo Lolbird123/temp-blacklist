@@ -1,3 +1,9 @@
+# Modified .gitignore Node template
+
+# Custom
+config
+store
+
 # Logs
 logs
 *.log
